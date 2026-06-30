@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0059/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唐賈浪仙長江集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:19:33.445233'
+  source:
+    repository: kanripo
+    path: KR4c0059/KR4c0059_009.txt
+hash: sha256:8f06875ea1c38ab077654a7cc8e6bd44ac9c4f89457c57e7ede2c36d38ba9c5d
